@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/adamculp/api-consumer.svg?branch=master)](https://travis-ci.org/adamculp/api-consumer)
+[![Build Status](https://travis-ci.org/WebDevJL/api-consumer.svg?branch=master)](https://travis-ci.org/WebDevJL/api-consumer)
 
 About
 -----
